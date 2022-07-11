@@ -8,8 +8,8 @@ Usado na aula 2 de git
 `git pull origin nome-da-branch`
 (por exemplo, git pull origin main)
 
-## Criar um novo branch
-`git checkout origin nome-da-branch`
+## Criar um novo branch e seleciona
+`git checkout -b nome-da-branch`
 
 ---
 Agora você altera e/ou cria os arquivos conforme a solicitação do cliente e depois segue o processo abaixo
